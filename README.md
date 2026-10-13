@@ -1,6 +1,6 @@
 # Cámaras Trampa (Streamlit)
 
-App web para organizar, generar el master sheet y analizar fotos de cámaras trampa. Corre online en Streamlit Community Cloud y también local. Paleta de Fundación Naturaleza Argentina (verde #69BE28 / #007934).
+App web para organizar, generar el master sheet y analizar fotos de cámaras trampa. Corre online en Streamlit Community Cloud y también local. Encabezado con el logo de BioMap y paleta institucional (verde #69BE28 / #007934).
 
 ## Qué incluye
 

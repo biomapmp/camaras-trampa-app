@@ -198,8 +198,11 @@ def tab_datos(df, ev):
 
 
 def main():
+    logo = BASE / "banner.png"
+    if logo.exists():
+        st.image(str(logo), width=260)
     st.title("Cámaras Trampa")
-    st.caption("Organización, master sheet y análisis de fotos de cámaras trampa · Fundación Naturaleza Argentina")
+    st.caption("Organización, master sheet y análisis de fotos de cámaras trampa · BioMap")
 
     with st.sidebar:
         st.header("Datos")
